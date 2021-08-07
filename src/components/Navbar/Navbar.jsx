@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { AppBar, Toolbar, IconButton, Badge, MenuItem, Menu, Typography } from '@material-ui/core';
 import { ShoppingCart } from '@material-ui/icons';
 import useStyles from './styles';
-import logo from '../../assets/logo.png';
+import logo from '../../assets/log.png';
 const Navbar = () => {
     const classes = useStyles();
     return (
@@ -12,7 +12,7 @@ const Navbar = () => {
         <Toolbar>
           <Typography>
            
-            <img src={logo} alt="shopcart.js"  width="80px" height="50px" className={classes.image} /> 
+            <img src={logo} alt="shopcart.js"  width="60px" height="60px" className={classes.image} /> 
             
           </Typography>
           <div className={classes.grow} />
