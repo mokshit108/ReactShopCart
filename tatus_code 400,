@@ -1,0 +1,47 @@
+[33mcommit 00bbc8a54a2aacce514c4f09a4cc0136746c7661[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: mokshit108 <mokshit108@gmail.com>
+Date:   Sat Aug 14 08:48:18 2021 +0530
+
+    Address Form Done
+
+[33mcommit 66717dd8bdadcf894503755ada52b07663d35510[m
+Author: mokshit108 <mokshit108@gmail.com>
+Date:   Fri Aug 13 19:55:38 2021 +0530
+
+    Checkout Basic Layout Done
+
+[33mcommit 550f3ad084a4cde64efc04522290aab160787662[m
+Author: mokshit108 <mokshit108@gmail.com>
+Date:   Tue Aug 10 22:52:12 2021 +0530
+
+    React Router Cart Functioning
+
+[33mcommit 6f4bf3eb124597c619110211521fbe05233c28a3[m
+Author: mokshit108 <mokshit108@gmail.com>
+Date:   Sat Aug 7 20:47:07 2021 +0530
+
+    Add to Cart
+
+[33mcommit 25092c25f02e8fc4e2b5632fd5f3f567859e549d[m
+Author: mokshit108 <mokshit108@gmail.com>
+Date:   Sat Aug 7 17:37:27 2021 +0530
+
+    Adding Products
+
+[33mcommit 030bb26993da512f56bb95ec9b2fe49e576d9a8d[m
+Author: mokshit108 <mokshit108@gmail.com>
+Date:   Fri Aug 6 16:32:59 2021 +0530
+
+    Navbar Created
+
+[33mcommit e515066d3aaa15948776360ff53dec1e39ce7394[m
+Author: mokshit108 <mokshit108@gmail.com>
+Date:   Fri Aug 6 15:30:05 2021 +0530
+
+    Mock Products
+
+[33mcommit 4cfe779210ee1c6ab20d29c3595aa35e7204aa05[m
+Author: mokshit108 <mokshit108@gmail.com>
+Date:   Tue Aug 3 20:52:30 2021 +0530
+
+    Initialize project using Create React App
